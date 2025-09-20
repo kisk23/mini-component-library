@@ -8,3 +8,4 @@ export function getDisplayedValue(value, children) {
 
   return selectedChild.props.children;
 }
+
